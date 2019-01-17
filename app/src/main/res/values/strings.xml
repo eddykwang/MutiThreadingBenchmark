@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MutiThreadingBM</string>
+  <string name="description">This benchmark creates 8 threads, generates 20000 random numbers and run sorting for 100 times for each thread.</string>
+</resources>
